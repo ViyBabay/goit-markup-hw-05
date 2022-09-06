@@ -433,10 +433,6 @@ ul {
     transition-property: fill, background-color;
     transition-duration: var(--main-trans-duration);
     transition-timing-function: var(--cubic-bezier);
-
-
-    
-
 }
 
 .team-link:hover, .team-link:focus {
@@ -700,6 +696,7 @@ height: 294px; */
 .overlay-txt {
     color: var(--white-text-color);
     padding: 63px 24px;
+    text-align: center;
     font-weight: 400;
     font-size: 18px;
     line-height: 1.56;
